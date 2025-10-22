@@ -136,7 +136,11 @@
               {
                 "id": "r0_l0",
                 "atleta1": null,
-                "atleta2": null,
+                "atleta2": {
+                  "id": "1761134360000",
+                  "nome": "ALISON",
+                  "academia": "AVM"
+                },
                 "vencedor": null,
                 "pontuacao": null,
                 "concluida": false
@@ -174,9 +178,9 @@
                   "nome": "ALISON",
                   "academia": "AVM"
                 },
-                "vencedor": null,
-                "pontuacao": null,
-                "concluida": false
+                "vencedor": "1761134360000",
+                "pontuacao": "N/A",
+                "concluida": true
               }
             ]
           }
