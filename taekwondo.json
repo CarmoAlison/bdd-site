@@ -201,7 +201,11 @@
             "academia": "AMTO"
           }
         ],
-        "terceiroLugar": null,
+        "terceiroLugar": {
+          "id": "1761137275162",
+          "nome": "Brandon",
+          "academia": "AGT"
+        },
         "lutaTerceiroLugar": {
           "id": "terceiro_lugar",
           "atleta1": {
@@ -214,9 +218,9 @@
             "nome": "Brandon",
             "academia": "AGT"
           },
-          "vencedor": null,
-          "pontuacao": null,
-          "concluida": false
+          "vencedor": "1761137275162",
+          "pontuacao": "2-0",
+          "concluida": true
         }
       },
       "resultados": {},
