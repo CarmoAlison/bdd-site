@@ -33,6 +33,18 @@
       "faixa": "Preta",
       "peso": "Ate 80kg",
       "competicaoId": "1761134331410"
+    },
+    {
+      "id": "1761137275162",
+      "nome": "Brandon",
+      "dataNascimento": "2006-01-06",
+      "idade": 19,
+      "academia": "AGT",
+      "genero": "M",
+      "categoria": "Adulto",
+      "faixa": "Preta",
+      "peso": "Até 80kg",
+      "competicaoId": "1761134331410"
     }
   ],
   "resultados": [
