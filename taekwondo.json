@@ -1,0 +1,14 @@
+{
+  "competicoes": [
+    {
+      "id": "1761134331410",
+      "nome": "INTERNO MACAU",
+      "data": "2025-11-10",
+      "local": "ACADEMIA DE MACAU",
+      "descricao": "Interno entre a equipe",
+      "atletas": []
+    }
+  ],
+  "atletas": [],
+  "resultados": []
+}
