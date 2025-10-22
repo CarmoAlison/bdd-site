@@ -135,7 +135,11 @@
             "lutas": [
               {
                 "id": "r0_l0",
-                "atleta1": null,
+                "atleta1": {
+                  "id": "1761134390377",
+                  "nome": "Francisco Jose",
+                  "academia": "AMTO"
+                },
                 "atleta2": {
                   "id": "1761134360000",
                   "nome": "ALISON",
@@ -162,9 +166,9 @@
                   "nome": "Oreia",
                   "academia": "AGT"
                 },
-                "vencedor": null,
-                "pontuacao": null,
-                "concluida": false
+                "vencedor": "1761134390377",
+                "pontuacao": "2-0",
+                "concluida": true
               },
               {
                 "id": "r1_l1",
