@@ -35,7 +35,19 @@
       "competicaoId": "1761134331410"
     }
   ],
-  "resultados": [],
+  "resultados": [
+    {
+      "id": "1761135194675",
+      "competicaoId": "1761134331410",
+      "categoria": "Adulto",
+      "peso": "AtÃ© 80kg",
+      "atleta1Id": "1761134360000",
+      "atleta2Id": "1761134390377",
+      "vencedorId": "1761134360000",
+      "pontuacao": "2-0",
+      "data": "2025-10-22T12:13:14.675Z"
+    }
+  ],
   "chaveamentos": [
     {
       "id": "1761135165322",
