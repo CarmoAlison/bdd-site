@@ -72,5 +72,122 @@
       "data": "2025-10-22T12:13:14.675Z"
     }
   ],
-  "chaveamentos": []
+  "chaveamentos": [
+    {
+      "id": "1761139953617",
+      "competicaoId": "1761134331410",
+      "categoria": "Adulto",
+      "peso": "Ate 80kg",
+      "atletas": [
+        {
+          "id": "1761134390377",
+          "nome": "Francisco Jose",
+          "dataNascimento": "2000-01-01",
+          "idade": 25,
+          "academia": "AMTO",
+          "genero": "M",
+          "categoria": "Adulto",
+          "faixa": "Preta",
+          "peso": "Ate 80kg",
+          "competicaoId": "1761134331410"
+        },
+        {
+          "id": "1761137308476",
+          "nome": "Oreia",
+          "dataNascimento": "2000-01-01",
+          "idade": 25,
+          "academia": "AGT",
+          "genero": "M",
+          "categoria": "Adulto",
+          "faixa": "Preta",
+          "peso": "Ate 80kg",
+          "competicaoId": "1761134331410"
+        },
+        {
+          "id": "1761137275162",
+          "nome": "Brandon",
+          "dataNascimento": "2006-01-06",
+          "idade": 19,
+          "academia": "AGT",
+          "genero": "M",
+          "categoria": "Adulto",
+          "faixa": "Preta",
+          "peso": "Ate 80kg",
+          "competicaoId": "1761134331410"
+        },
+        {
+          "id": "1761134360000",
+          "nome": "ALISON",
+          "dataNascimento": "2005-10-22",
+          "idade": 20,
+          "academia": "AVM",
+          "genero": "M",
+          "categoria": "Adulto",
+          "faixa": "Preta",
+          "peso": "Ate 80kg",
+          "competicaoId": "1761134331410"
+        }
+      ],
+      "estrutura": {
+        "rounds": [
+          {
+            "nome": "Final",
+            "lutas": [
+              {
+                "id": "r0_l0",
+                "atleta1": null,
+                "atleta2": null,
+                "vencedor": null,
+                "pontuacao": null,
+                "concluida": false
+              }
+            ]
+          },
+          {
+            "nome": "Semi-final",
+            "lutas": [
+              {
+                "id": "r1_l0",
+                "atleta1": {
+                  "id": "1761134390377",
+                  "nome": "Francisco Jose",
+                  "academia": "AMTO"
+                },
+                "atleta2": {
+                  "id": "1761137308476",
+                  "nome": "Oreia",
+                  "academia": "AGT"
+                },
+                "vencedor": null,
+                "pontuacao": null,
+                "concluida": false
+              },
+              {
+                "id": "r1_l1",
+                "atleta1": {
+                  "id": "1761137275162",
+                  "nome": "Brandon",
+                  "academia": "AGT"
+                },
+                "atleta2": {
+                  "id": "1761134360000",
+                  "nome": "ALISON",
+                  "academia": "AVM"
+                },
+                "vencedor": null,
+                "pontuacao": null,
+                "concluida": false
+              }
+            ]
+          }
+        ],
+        "finalistas": [],
+        "terceiroLugar": null,
+        "lutaTerceiroLugar": null
+      },
+      "resultados": {},
+      "dataCriacao": "2025-10-22T13:32:33.617Z",
+      "finalizado": false
+    }
+  ]
 }
