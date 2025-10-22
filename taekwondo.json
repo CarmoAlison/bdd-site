@@ -145,9 +145,9 @@
                   "nome": "ALISON",
                   "academia": "AVM"
                 },
-                "vencedor": null,
-                "pontuacao": null,
-                "concluida": false
+                "vencedor": "1761134360000",
+                "pontuacao": "2-0",
+                "concluida": true
               }
             ]
           },
@@ -189,13 +189,39 @@
             ]
           }
         ],
-        "finalistas": [],
+        "finalistas": [
+          {
+            "id": "1761134360000",
+            "nome": "ALISON",
+            "academia": "AVM"
+          },
+          {
+            "id": "1761134390377",
+            "nome": "Francisco Jose",
+            "academia": "AMTO"
+          }
+        ],
         "terceiroLugar": null,
-        "lutaTerceiroLugar": null
+        "lutaTerceiroLugar": {
+          "id": "terceiro_lugar",
+          "atleta1": {
+            "id": "1761137308476",
+            "nome": "Oreia",
+            "academia": "AGT"
+          },
+          "atleta2": {
+            "id": "1761137275162",
+            "nome": "Brandon",
+            "academia": "AGT"
+          },
+          "vencedor": null,
+          "pontuacao": null,
+          "concluida": false
+        }
       },
       "resultados": {},
       "dataCriacao": "2025-10-22T13:32:33.617Z",
-      "finalizado": false
+      "finalizado": true
     }
   ]
 }
